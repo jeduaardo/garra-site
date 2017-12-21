@@ -1,0 +1,81 @@
+
+.carousel-inner{
+	text-align: center;
+
+
+}
+.carousel-inner .carousel-caption{
+	margin-bottom: 11%;
+	margin-left: 8%;
+}
+.carousel-caption button{
+	background-color: #08911e;
+	border-color: #08911e;
+}
+.carousel-caption button:hover,button:link,button:active,button:visited{
+	background-color: #0bc92a;
+	border:none;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.carousel-caption a{
+	color:#ffffff;	
+}
+.carousel-caption a:hover,a:link,a:active,a:visited{
+	text-decoration:none;
+
+}
+.carousel-inner img {
+	margin: auto;
+}
+
+
+.carousel-fade .carousel-inner .item {
+	opacity: 0;
+	transition-property: opacity;
+}
+
+.carousel-fade .carousel-inner .active {
+	opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+	left: 0;
+	opacity: 0;
+	z-index: 1;
+}
+
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+	opacity: 1;
+}
+.carousel-indicators li{
+	background-color: blue;
+}
+.carousel-indicators li:active{
+	background-color: blue;
+}
+.titulo{
+	text-align: center;
+}
+
+#map{
+	margin-top: 0%;
+	margin-bottom: 5%;
+	height: 500px;
+	width: 60%;
+}
+
+@media(max-width: 768px){
+	#map{
+		height: 300px;
+		width: 90%
+	}
+}
+
+@media(max-width: 425px){
+	#map{
+		height: 300px;
+		width: 90%
+	}
+}
