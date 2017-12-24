@@ -10,6 +10,7 @@ background-color: #2dbff7;
 }
 .midia-social{
 	margin-left: 90%;
+	z-index: -1;
 }
 
 .fb-page{
