@@ -1,0 +1,10 @@
+.midia-social-float{
+	margin-left: 93%;
+	display: inline-block;
+	margin-top: 40%;
+	z-index: 1;
+}
+
+ol, ul {
+		list-style: none;
+	}
