@@ -1,0 +1,32 @@
+.processo-seletivo-inicial{
+	background-color: #2dbff7;
+}
+.processo-seletivo-inicial .logo-ps img{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+.processo-seletivo-inicial .titulo{
+	text-align: center;
+	font-size: 50px;
+	font-family: "amaticbold";
+}
+.processo-seletivo-inicial 	.conteudo{
+	background-color:#f8f8f8;
+	border-radius:  10px;
+	padding: 20px 20px 20px 20px;
+	margin-bottom: 3%;
+}
+.processo-seletivo-inicial .conteudo img{
+	margin: 0 auto;
+}
+.processo-seletivo-inicial .conteudo img{
+	width: 95%;
+	height: 95%;
+}
+.processo-seletivo-inicial .conteudo img:hover{
+	cursor: pointer;
+	width: 100%;
+	height: 100%;
+	margin:0;
+}

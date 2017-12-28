@@ -5,14 +5,13 @@
 	<title>Site Garra</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/fontes.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/footer.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/contato.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/midia-social-float.css">
-
+	<link rel="stylesheet" type="text/css" href="assets/css/processo-seletivo.css">
 </head>
-
 <body class="pagina-inicial">
 	<?php include ("midia-social-float.php"); ?>
 	<!-- __________________________________________________________________________________________________________________________________ -->
@@ -169,7 +168,5 @@
 	js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.11';
 	fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-
 <?php include ("footer.php"); ?>
 </body>
