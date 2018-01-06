@@ -32,6 +32,14 @@
 				<div class="col-md-3 menus">
 					<a href="http://www.ufjf.br/medicina/"><img src="assets/img/medicina-ufjf.png" class="img-responsive"></a>
 				</div>
+				<div class="col-md-3 menus">
+					<a href="https://brasilcursinhos.org/"><img src="assets/img/brasil-cursinhos.png" class="img-responsive"></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 menus">
+					<a href="https://descomplica.com.br/"><img src="assets/img/descomplica.png" class="img-responsive"></a>
+				</div>
 			</div>
 		</div>
 	</main>

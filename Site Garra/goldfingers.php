@@ -72,9 +72,9 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/jessica-mendes.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/jessica.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Jéssica Mendes</h4>
+							<h4>Jéssica Gomes</h4>
 							<ul>
 								<li>Curso: Direito</li>
 								<li>Cargo: Goldfingers</li>

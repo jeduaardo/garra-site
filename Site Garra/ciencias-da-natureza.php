@@ -21,25 +21,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/tayna.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/rodrigo.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Tayná Magalhães de Almeida</h4></p>
+							<p><h4>Rodrigo Pacheco</h4></p>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Goldfingers</li>
+								<li>Cargo: Professor de Biologia A</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-scafura.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/yasmin.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Scafura da Fonseca</h4>
+							<h4>Yasmin Xavier dos Reis</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Fisioterapia</li>
+								<li>Cargo: Professora de Biologia B</li>
 							</ul>
 						</div>
 					</li>
@@ -48,22 +48,22 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-luisa.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/felipe.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Soares Costa</h4>
+							<h4>Felipe dos Santos Farias</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Licenciatura em Física</li>
+								<li>Cargo: Professor de Física A</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/douglas.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/leonardo.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Douglas de Castro Mendes</h4>
+							<h4>Leonardo Carneiro Vale</h4>
 							<ul>
-								<li>Curso: Engenharia Cívil</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Professor de Física B</li>
 							</ul>
 						</div>
 					</li>
@@ -72,17 +72,27 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/jessica-mendes.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/pedro.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Jéssica Mendes</h4>
+							<h4>Pedro Henrique Souza Rezende</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Professor de Química A</li>
+							</ul>
+						</div>
+					</li>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/anna.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Anna Flavia Silveira Souza</h4>
+							<ul>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Professor de Química B</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
-			</div> -->
+			</div>
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

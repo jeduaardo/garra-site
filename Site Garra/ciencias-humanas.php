@@ -20,25 +20,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/tayna.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/ivan.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Tayná Magalhães de Almeida</h4></p>
+							<p><h4>Ivan Bilheiro Dias Silva</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Goldfingers</li>
+								<li>Curso: Ciências da Religião</li>
+								<li>Cargo: Professor de Filosofia</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-scafura.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/matheus.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Scafura da Fonseca</h4>
+							<h4>Matheus Vitorino Machado</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Ciências Sociais</li>
+								<li>Cargo: Professor de Sociologia</li>
 							</ul>
 						</div>
 					</li>
@@ -47,41 +47,51 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-luisa.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/tulio.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Soares Costa</h4>
+							<h4>Túlio Pedro Mussi Ramos</h4>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Cargo: Professor de Geografia do Brasil</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/douglas.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/jessica.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Douglas de Castro Mendes</h4>
-							<ul>
-								<li>Curso: Engenharia Cívil</li>
-								<li>Cargo: Goldfingers</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div>
-			<div class="row membros">
-				<ul>
-					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/jessica-mendes.jpg" class="img-responsive img-circle"></a>
-						<div class="descricao">
-							<h4>Jéssica Mendes</h4>
+							<h4>Jéssica Gomes</h4>
 							<ul>
 								<li>Curso: Direito</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Cargo: Professora de Geografia Geral</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
-			</div> -->
+			</div>
+			<div class="row membros">
+				<ul>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/nilciana.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Nilciana Alves Martins</h4>
+							<ul>
+								<li>Curso: -</li>
+								<li>Cargo: Professora de História do Brasil</li>
+							</ul>
+						</div>
+					</li>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/guilherme.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Guilherme Abizaid David</h4>
+							<ul>
+								<li>Curso: História</li>
+								<li>Cargo: Professor de História Geral</li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

@@ -84,7 +84,7 @@
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/matheus.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/matheus-amaral.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
 							<h4>Matheus Amaral Pacheco</h4>
 							<ul>

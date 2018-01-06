@@ -15,6 +15,7 @@
   <link rel="stylesheet" type="text/css" href="assets/css/diretorias.css">
   <link rel="stylesheet" type="text/css" href="assets/css/corpo-docente.css">
   <link rel="stylesheet" type="text/css" href="assets/css/docentes.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/sobre-nos.css">
 </head>
     <!-- Top menu -->
     <nav class="navbar navbar-fixed-top navbar-no-bg" id="cssmenu" role="navigation">
@@ -32,7 +33,7 @@
         <div class="collapse navbar-collapse" id="top-navbar-1">
           <ul class="nav navbar-nav navbar-left">
             <li><a href="index.php">Início</a></li>
-            <li><a href="#">Sobre nós</a></li>
+            <li><a href="sobre-nos.php">Sobre nós</a></li>
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Equipe<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="diretoria.php">Diretoria</a></li>

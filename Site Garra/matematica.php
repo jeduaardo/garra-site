@@ -20,25 +20,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/tayna.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/aleff.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Tayná Magalhães de Almeida</h4></p>
+							<p><h4>Áleff Mascarenhas Silva</h4></p>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Goldfingers</li>
+								<li>Cargo: Professor de Matemática A</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-scafura.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/vinicius.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Scafura da Fonseca</h4>
+							<h4>Vinicius Quintiliano da Silva</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Matemática</li>
+								<li>Cargo: Professor de Matemática B</li>
 							</ul>
 						</div>
 					</li>
@@ -47,41 +47,17 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-luisa.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/ailton.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Soares Costa</h4>
+							<h4>Ailton Machado Ferraz</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
-							</ul>
-						</div>
-					</li>
-					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/douglas.jpg" class="img-responsive img-circle"></a>
-						<div class="descricao">
-							<h4>Douglas de Castro Mendes</h4>
-							<ul>
-								<li>Curso: Engenharia Cívil</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Matemática</li>
+								<li>Cargo: Professor de Matemática C</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
 			</div>
-			<div class="row membros">
-				<ul>
-					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/jessica-mendes.jpg" class="img-responsive img-circle"></a>
-						<div class="descricao">
-							<h4>Jéssica Mendes</h4>
-							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Goldfingers</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div> -->
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

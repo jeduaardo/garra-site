@@ -23,25 +23,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/pedro.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/gabrielle.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Pedro Henrique Souza Rezende</h4></p>
+							<p><h4>Gabrielle da Silva Barbosa</h4></p>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Ministro da Cidadela</li>
+								<li>Cargo: Ministra do Amor</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/janderson.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/rafaela.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Janderson Alves Sauma</h4>
+							<h4>Rafaela Doro Rodrigues</h4>
 							<ul>
-								<li>Curso: Ciências Sociais</li>
-								<li>Cargo: Mestre</li>
+								<li>Curso: Administração</li>
+								<li>Cargo: Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -50,22 +50,22 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/barbara.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/camila.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Bárbara Simões Narciso</h4>
+							<h4>Camila Rocha Firmo</h4>
+							<ul>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Amorzinho</li>
+							</ul>
+						</div>
+					</li>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/pietra.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Pietra Cestaro Cruz de Araujo</h4>
 							<ul>
 								<li>Curso: Direito</li>
-								<li>Cargo: Mestre</li>
-							</ul>
-						</div>
-					</li>
-					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/laura.jpg" class="img-responsive img-circle"></a>
-						<div class="descricao">
-							<h4>Laura Debortoli Lage Lima</h4>
-							<ul>
-								<li>Curso: Geografia</li>
-								<li>Cargo: Mestre</li>
+								<li>Cargo: Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -74,41 +74,27 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/gabriel.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/isabela.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Gabriel Leite Citrangulo</h4>
+							<h4>Isabella Alves de Faria</h4>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
+								<li>Cargo: Amorzinho</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/matheus.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/lenice-rubio.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Matheus Amaral Pacheco</h4>
+							<h4>Lenice Rubio dos Santos</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
+								<li>Curso: Jornalismo</li>
+								<li>Cargo: Amorzinho</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
 			</div>
-			<div class="row membros">
-				<ul>
-					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana.jpg" class="img-responsive img-circle"></a>
-						<div class="descricao">
-							<h4>Ana Carolina Malvaccini</h4>
-							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div> -->
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

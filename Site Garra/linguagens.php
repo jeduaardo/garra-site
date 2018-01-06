@@ -20,25 +20,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/tayna.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/paulo.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Tayná Magalhães de Almeida</h4></p>
+							<p><h4>Paulo Cunha Rodrigues Júnior</h4></p>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Goldfingers</li>
+								<li>Cargo: Professor de Redação</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-scafura.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/caique.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Scafura da Fonseca</h4>
+							<h4>Caíque Neves Nunes</h4>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Cargo: Professor de Interpretação de texto</li>
 							</ul>
 						</div>
 					</li>
@@ -47,22 +47,22 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ana-luisa.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/ana.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ana Luisa Soares Costa</h4>
+							<h4>Ana Carolina Malvaccini</h4>
 							<ul>
 								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Cargo: Professora de Gramática</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/douglas.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/miria.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Douglas de Castro Mendes</h4>
+							<h4>Miriã Ferreira Silva</h4>
 							<ul>
-								<li>Curso: Engenharia Cívil</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Professora de Inglês</li>
 							</ul>
 						</div>
 					</li>
@@ -71,17 +71,17 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/jessica-mendes.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/gabrielle.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Jéssica Mendes</h4>
+							<h4>Gabrielle Barbosa</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Professora de Literatura</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
-			</div> -->
+			</div>
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

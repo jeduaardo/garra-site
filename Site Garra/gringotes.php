@@ -22,25 +22,25 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row membros">
+			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/nylton.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/beatriz-mota.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<p><h4>Nylton Vitor Scicchitano de Almeida</h4></p>
+							<p><h4>Beatriz Matos Mota</h4></p>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Ministro do Supremo Tribunal do GARRA</li>
+								<li>Curso: Administração</li>
+								<li>Cargo: Ministra do Gringotes</li>
 							</ul>
 						</div>
 					</li>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/geovana.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/beatriz.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Geovanna Carpanez</h4>
+							<h4>Beatriz Stephan Farhat Jorge</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Juiza</li>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Duende</li>
 							</ul>
 						</div>
 					</li>
@@ -49,17 +49,41 @@
 			<div class="row membros">
 				<ul>
 					<li class="col-md-3 col-md-offset-2">
-						<a><img src="assets/img/ivan.jpg" class="img-responsive img-circle"></a>
+						<a><img src="assets/img/conrado.jpg" class="img-responsive img-circle"></a>
 						<div class="descricao">
-							<h4>Ivan Bilheiro Dias</h4>
+							<h4>Conrado Machado Faria</h4>
 							<ul>
-								<li>Curso: Ciências Da Religião</li>
-								<li>Cargo: Juíz</li>
+								<li>Curso: Engenharia de Produção</li>
+								<li>Cargo: Duende</li>
+							</ul>
+						</div>
+					</li>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/mariana.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Mariana Faceroli de Oliveira</h4>
+							<ul>
+								<li>Curso: Medicina</li>
+								<li>Cargo: Duende</li>
 							</ul>
 						</div>
 					</li>
 				</ul>
-			</div> -->
+			</div>
+			<div class="row membros">
+				<ul>
+					<li class="col-md-3 col-md-offset-2">
+						<a><img src="assets/img/lenice.jpg" class="img-responsive img-circle"></a>
+						<div class="descricao">
+							<h4>Lenice Auxiliadora da Silva Câmara</h4>
+							<ul>
+								<li>Curso: Ciências Contábeis</li>
+								<li>Cargo: Duende</li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>
