@@ -2,10 +2,17 @@
 background-color: #2dbff7;
 }
 
+@media (min-width: 1200px){
+	.pagina-inicial #wrapper{
+		width: 90%;
+	}
+}
+
 .pagina-inicial .conteudo{
 	background-color:#f8f8f8;
 	border-radius:  10px;
 	padding: 15px 15px 15px 15px;
+	text-align: center;
 }
 .pagina-inicial .menus{	
 	margin-top:3%;
@@ -32,7 +39,9 @@ background-color: #2dbff7;
 		padding:0px 10px;
 		border-radius: 10px;
 		padding-bottom: 25px;
+
 	}
+
 .pagina-inicial .slides .item{
 	border-radius: 55px;
 	overflow: hidden;
@@ -51,7 +60,7 @@ background-color: #2dbff7;
 	border-color: #08911e;
 }
 .pagina-inicial .carousel-caption button:hover,button:link,button:active,button:visited{
-	background-color: #0bc92a;
+	background-color: #4080ff;
 	border:none;
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
@@ -124,3 +133,4 @@ background-color: #2dbff7;
 		width: 90%
 	}
 }
+

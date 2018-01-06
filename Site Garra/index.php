@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>Site Garra</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/fontes.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/footer.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/contato.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/midia-social-float.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/processo-seletivo.css">
-</head>
+<?php include ("header.php"); ?>
 <body class="pagina-inicial">
-	<?php include ("midia-social-float.php"); ?>
 	<!-- __________________________________________________________________________________________________________________________________ -->
 	<section class="slides">
 		<!-- Carousel -->
@@ -41,23 +29,15 @@
 	<main>
 		<div id="wrapper" class="container">
 			<div class="row">
-				<div class="col-md-3 menus">                         
-					<h4 class="titulo">
-						<span class="text">BLOGARRA</span>
-					</h4>
-					<div class="conteudo">
-						<p>Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla</p>
-					</div>
-				</div>
-				<div class="col-md-3 menus">                         
+				<div class="col-lg-5 menus">                         
 					<h4 class="titulo">
 						<span class="text">TV GARRA</span>
 					</h4>
 					<div class="conteudo">
-						<p>Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla</p>
+						<p>Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quaaaaaaaaaaaaaaaaaaaaa </p>
 					</div>
 				</div>
-				<div class="foto col-md-4 menus">                         
+				<div class="foto col-lg-5 menus">                         
 					<h4 class="titulo">
 						<span class="text">Galeria de fotos</span>
 					</h4>
@@ -126,20 +106,21 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 menus">                         
-				<h4 class="titulo">
-					<span class="text">Curta nossa página!</span>
-				</h4>
-				<div class="conteudo">
-					<div class="fb-page" data-href="https://www.facebook.com/garracursinhopopular/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/garracursinhopopular/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/garracursinhopopular/">Garra - Cursinho Popular</a></blockquote></div>
-				</div>
-			</div>
+			
 			<div class="col-md-4 menus">                         
 				<h4 class="titulo">
 					<span class="text">Faça uma visita!</span>
 				</h4>
 				<div class="conteudo">
 					<div id="map" class="menus"></div>
+				</div>
+			</div>
+			<div class="col-md-3 menus">                         
+				<h4 class="titulo">
+					<span class="text">Curta nossa página!</span>
+				</h4>
+				<div class="conteudo">
+					<div class="fb-page" data-href="https://www.facebook.com/garracursinhopopular/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/garracursinhopopular/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/garracursinhopopular/">Garra - Cursinho Popular</a></blockquote></div>
 				</div>
 			</div>
 			<script>
@@ -170,3 +151,4 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <?php include ("footer.php"); ?>
 </body>
+</html>

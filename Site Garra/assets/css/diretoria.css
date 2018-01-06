@@ -1,0 +1,31 @@
+.diretoria-inicial{
+	background-color: #2dbff7;
+}
+.diretoria-inicial .conteudo{
+	background-color:#f8f8f8;
+	border-radius:  10px;
+	padding: 15px 15px 15px 15px;
+	margin-bottom: 5%;
+}
+
+.diretoria-inicial .conteudo p{
+	text-align: justify;
+}
+
+.diretoria-inicial .titulo{
+	text-align: center;
+	font-family: "actionman";
+	font-size: 30px;
+	margin-top: 5%;
+}
+
+.diretoria-inicial .menus{
+	margin-top:3%;
+	margin-bottom: 3%;
+	border-radius:  10px;
+}
+
+.diretoria-inicial .menus .img-responsive{
+	width: 263px;
+	height: 263px;
+}

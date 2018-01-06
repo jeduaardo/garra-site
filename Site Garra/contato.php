@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>Site Garra</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/fontes.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/footer.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/contato.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/midia-social-float.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/processo-seletivo.css">
-</head>
+<?php include ("header.php"); ?>
 <body class="contato-inicial">
 	<main>
 		<h4 class="titulo">
@@ -58,7 +47,7 @@
 	</main>
 	<script>
 		function initMap() {
-			var uluru = {lat: -21.7642, lng: -43.3496};
+			var uluru = {lat: -21.775238, lng: -43.370357};
 			var map = new google.maps.Map(document.getElementById('map'), {
 				zoom: 15,
 				center: uluru

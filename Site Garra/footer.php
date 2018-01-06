@@ -1,6 +1,6 @@
 <!-- __________________________________________________________________________________________________________________________________ -->
 <!-- Rodapé -->
-<footer>
+<footer class="rodape">
   <div class="footer-copyright">
     <div class="row">
       <p>GARRA Cursinho popular © 2017 - TODOS OS DIREITOS RESERVADOS </p>
@@ -38,7 +38,8 @@
   </div>
 </footer>
 <!-- Fim rodapé -->
-<script src="assets/js/jquery-1.9.1.js"></script>
-<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-<script src="https://use.fontawesome.com/6f8b7aea2d.js"></script>
-<script src="assets/js/footer.js"></script>
+<script type="text/javascript" src="assets/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://use.fontawesome.com/6f8b7aea2d.js"></script>
+<script type="text/javascript" src="assets/js/footer.js"></script>
+<script type="text/javascript" src="assets/js/header.js"></script>

@@ -46,3 +46,19 @@
 	margin-left: 4.4%;
 	border-radius:  10px;
 }
+
+@media(min-width: 992px){
+.contato-inicial html{
+  	position: relative;
+  	min-height: 100%;
+}
+
+.contato-inicial body{
+	margin-bottom: 41px;
+}
+.contato-inicial footer {
+	position: absolute;
+ 	bottom: 0;
+  	width: 100%;
+}
+}
