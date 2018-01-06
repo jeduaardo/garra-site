@@ -49,10 +49,22 @@
 	font-family: "actionman";
 	font-size: 30px;
 	white-space: nowrap;
+	text-align: center;
 }
 
 .sobre-inicial .realizacao p{
 	font-family: "amaticbold";
 	font-size: 30px;
 	text-align: center;
+}
+
+@media (max-width: 1199px){
+	.sobre-inicial .titulo-perpendicular{
+		margin-top: 20%;
+	}
+}
+@media(max-width: 991px){
+	.sobre-inicial .titulo-perpendicular{
+		display: none;
+	}
 }
