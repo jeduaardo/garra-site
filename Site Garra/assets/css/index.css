@@ -12,7 +12,6 @@
 .pagina-inicial .menus{	
 	margin-top:3%;
 	margin-bottom: 3%;
-	margin-left: 4.4%;
 	border-radius:  10px;
 }
 
@@ -44,7 +43,7 @@
 }
 .pagina-inicial #wrapper{
 		background: #fff;
-		margin: 5% auto 5% auto;
+		margin: 5% auto 5% 12%;
 		padding:0px 10px;
 		border-radius: 10px;
 		padding-bottom: 25px;
@@ -144,3 +143,18 @@
 	}
 }
 
+.pagina-inicial .embed-container { 
+ position: relative; 
+ padding-bottom: 56.25%; 
+ height: 0; 
+ overflow: hidden; 
+ max-width: 100%; 
+ height: auto;
+} 
+.pagina-inicial .embed-container iframe, .pagina-inicial .embed-container object, .pagina-inicial .embed-container embed {
+ position: absolute; 
+ top: 0; 
+ left: 0; 
+ width: 100%; 
+ height: 100%; 
+}

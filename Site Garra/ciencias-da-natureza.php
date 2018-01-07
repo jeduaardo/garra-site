@@ -5,10 +5,10 @@
 	<main>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/ciencias-da-natureza.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
 					<h4 class="titulo">
 						<span class="text">CIENCIAS DA NATUREZA E SUAS TECNOLOGIAS</span>
 					</h4>

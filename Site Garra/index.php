@@ -15,10 +15,10 @@
 			<!-- Imagens dos slides -->
 			<div class="carousel-inner" role="listbox">                   
 				<div class="item active">
-					<a href="processo-seletivo.php"><img src="assets/img/slide1.jpeg" class="img-responsive"></a>
+					<a href="processo-seletivo.php"><img src="assets/img/slide1.png" class="img-responsive"></a>
 				</div>
 				<div class="item">
-					<img src="assets/img/slide2.jpeg" class="img-responsive"> 
+					<img src="assets/img/slide2.png" class="img-responsive"> 
 				</div>
 			</div>
 		</div>
@@ -34,7 +34,9 @@
 						<span class="text">TV GARRA</span>
 					</h4>
 					<div class="conteudo">
-						<p>Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quaaaaaaaaaaaaaaaaaaaaa </p>
+						<div class="embed-container">
+							<iframe src="https://www.youtube.com/embed/DDcNraGWFdw?list=PLMs39LzqFePqDBbRmZh4rFMrPFir4NRXA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+						</div>
 					</div>
 				</div>
 				<div class="foto col-lg-5 menus">                         
@@ -54,10 +56,10 @@
 								<!-- Imagens dos slides -->
 								<div class="carousel-inner" role="listbox">                   
 									<div class="item active">
-										<img src="assets/img/slide1.jpeg" class="img-responsive">
+										<img src="assets/img/slide1.png" class="img-responsive">
 									</div>
 									<div class="item">
-										<img src="assets/img/slide2.jpeg" class="img-responsive"> 
+										<img src="assets/img/slide2.png" class="img-responsive"> 
 									</div>
 								</div>
 							</div>
@@ -115,7 +117,7 @@
 			</div>
 			<div class="col-md-3 menus">                         
 				<h4 class="titulo">
-					<span class="text">Conheça a nossa página no face!</span>
+					<span class="text">Conheça a nossa página!</span>
 				</h4>
 				<div class="conteudo">
 					<div class="fb-page" data-href="https://www.facebook.com/garracursinhopopular/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/garracursinhopopular/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/garracursinhopopular/">Garra - Cursinho Popular</a></blockquote></div>

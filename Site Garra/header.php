@@ -42,7 +42,7 @@
                   <li><a href="parceiros.php">Parceiros</a></li>
                 </ul>
               </li>
-              <li><a href="contato.php">Localização</a></li>
+              <li><a href="contato.php">Contato</a></li>
               <li><a class="btn btn-link-3" href="processo-seletivo.php">Processo<br>seletivo</a></li>
             </ul>
           </div>

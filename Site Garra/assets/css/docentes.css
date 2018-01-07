@@ -1,6 +1,6 @@
 .docentes-inicial .texto p{
 	text-align: justify;
-	margin-top: 30%;
+	margin-top: 10%;
 	text-indent:4em;
 }
 .docentes-inicial .conteudo{
@@ -65,6 +65,10 @@
 }
 
 .docentes-inicial .resumo .img-responsive{
-	width: 458px;
-	height: 458px;
+	width: 300px;
+	height: 300px;
+}
+
+.docentes-inicial .resumo{
+	margin-bottom: 5%;
 }
