@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Grade</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/grade.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Grade</span>
+					</h4>
 					<p>
 						Também conhecido como Departamento de Tecnologia e Estimativa, a Grade realiza todas as
 						análises estatísticas do GARRA, desde a de dados, até a apresentação dos resultados para
@@ -31,8 +31,7 @@
 						<div class="descricao">
 							<p><h4>Isabella Pinheiro Fernandes Lamas</h4></p>
 							<ul>
-								<li>Curso: Engenharia de Produção</li>
-								<li>Cargo: Ministra da Grade</li>
+								<li>Ministra da Grade</li>
 							</ul>
 						</div>
 					</li>
@@ -41,8 +40,7 @@
 						<div class="descricao">
 							<h4>José Eduardo Henriques da Silva</h4>
 							<ul>
-								<li>Curso: Engenharia Computacional</li>
-								<li>Cargo: Analista</li>
+								<li>Analista</li>
 							</ul>
 						</div>
 					</li>
@@ -55,8 +53,7 @@
 						<div class="descricao">
 							<h4>Diogo Freitas de Andrade</h4>
 							<ul>
-								<li>Curso: Sistemas de Informação</li>
-								<li>Cargo: Analista</li>
+								<li>Analista</li>
 							</ul>
 						</div>
 					</li>

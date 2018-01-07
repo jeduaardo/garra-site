@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Cidadela</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/cidadela.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Cidadela</span>
+					</h4>
 					<p>
 						Também conhecido como Departamento de Ensino, a Cidadela é a fonte da sabedoria do
 						GARRA. Nela são planejados e aperfeiçoados os conteúdos administrados pelos professores,
@@ -30,8 +30,7 @@
 						<div class="descricao">
 							<p><h4>Pedro Henrique Souza Rezende</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Ministro da Cidadela</li>
+								<li>Ministro da Cidadela</li>
 							</ul>
 						</div>
 					</li>
@@ -40,8 +39,7 @@
 						<div class="descricao">
 							<h4>Janderson Alves Sauma</h4>
 							<ul>
-								<li>Curso: Ciências Sociais</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>
@@ -54,8 +52,7 @@
 						<div class="descricao">
 							<h4>Bárbara Simões Narciso</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>
@@ -64,8 +61,7 @@
 						<div class="descricao">
 							<h4>Laura Debortoli Lage Lima</h4>
 							<ul>
-								<li>Curso: Geografia</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>
@@ -78,8 +74,7 @@
 						<div class="descricao">
 							<h4>Gabriel Leite Citrangulo</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>
@@ -88,8 +83,7 @@
 						<div class="descricao">
 							<h4>Matheus Amaral Pacheco</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>
@@ -102,8 +96,7 @@
 						<div class="descricao">
 							<h4>Ana Carolina Malvaccini</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Mestre</li>
+								<li>Mestre</li>
 							</ul>
 						</div>
 					</li>

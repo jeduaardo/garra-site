@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Governo</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/governo.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Governo</span>
+					</h4>
 					<p>Também conhecido como Diretoria Administrativa e de Relações Exteriores, o Governo
 						comando o Parlamento (cúpula de todos os ministros do GARRA), sendo responsável pela
 						administração do cursinho, pelo bom convívio entre os Ministérios e por assuntos que os
@@ -30,8 +30,7 @@
 						<div class="descricao">
 							<p><h4>Caíque Neves Nunes</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Primeiro Ministro</li>
+								<li>Primeiro Ministro</li>
 							</ul>
 						</div>
 					</li>
@@ -40,8 +39,7 @@
 						<div class="descricao">
 							<h4>Marina Silva</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Rainha</li>
+								<li>Rainha</li>
 							</ul>
 						</div>
 					</li>

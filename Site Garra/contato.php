@@ -3,36 +3,36 @@
 <?php include ("header.php"); ?>
 <body class="contato-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Fale com a gente!</span>
-		</h4>
 		<div class="conteudo container">
+			<h4 class="titulo">
+				<span class="text">Fale com a gente!</span>
+			</h4>
 			<div class="formulario col-md-6">
 				<div id="div-formulario"">						
 					<form class="contato-formulario">
 						<div class="form-row">
 							<div class="row">
 								<div class="form-group col-md-12" id="div-nome">
-									<label for="contato-nome" class="col-form-label">Nome</label>
-									<input type="text" class="form-control" id="contato-nome" placeholder="Seu nome" required>
+									<label for="contato-nome" class="col-form-label"></label>
+									<input type="text" class="form-control" id="contato-nome" placeholder="Nome" required>
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-email">
-									<label for="contato-email" class="col-form-label">E-mail</label>
-									<input type="email" class="form-control" id="contato-email" placeholder="seu@email.com" required>
+									<label for="contato-email" class="col-form-label"></label>
+									<input type="email" class="form-control" id="contato-email" placeholder="E-mail" required>
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-assunto">
-									<label for="contato-assunto" class="campo">Assunto</label>
-									<input id="contato-assunto" class="form-control" type="text" placeholder="Qual é o assunto?">
+									<label for="contato-assunto" class="campo"></label>
+									<input id="contato-assunto" class="form-control" type="text" placeholder="Assunto">
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-mensagem">
-									<label for="contato-mensagem" class="campo">Mensagem</label>
-									<textarea id="contato-mensagem" class="form-control" type="text" placeholder="Digite a mensagem" rows="5" required></textarea>
+									<label for="contato-mensagem" class="campo"></label>
+									<textarea id="contato-mensagem" class="form-control" type="text" placeholder="Mensagem" rows="5" required></textarea>
 								</div>
 							</div>
 							<button type="submit" class="btn btn-success" id="contato-enviar">Enviar</button>

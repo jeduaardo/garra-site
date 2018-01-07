@@ -1,8 +1,4 @@
-.docente-inicial{
-	background-color: #2dbff7;
-}
 .docente-inicial .conteudo{
-	background-color:#f8f8f8;
 	border-radius:  10px;
 	padding: 15px 15px 15px 15px;
 	margin-bottom: 5%;
@@ -10,13 +6,14 @@
 
 .docente-inicial .conteudo p{
 	text-align: justify;
+	text-indent: 4em;
 }
 
 .docente-inicial .titulo{
-	text-align: center;
-	font-family: "actionman";
-	font-size: 30px;
+	font-family: "amaticbold";
+	font-size: 66px;
 	margin-top: 5%;
+	color: #3D9BE9;
 }
 
 .docente-inicial .menus{
@@ -25,24 +22,18 @@
 	border-radius:  10px;
 }
 
+.docente-inicial .menus a:hover{
+	margin-left: 0;
+}
+
 .docente-inicial .menus .img-responsive{
 	width: 263px;
 	height: 263px;
+	margin: 0 auto;
 }
 
-@media(min-width: 992px){
-
-.docente-inicial html{
-  	position: relative;
-  	min-height: 100%;
+.docente-inicial .cookie{
+	font-family: "cookie";
+	font-size: 26px;
 }
 
-.docente-inicial body{
-	margin-bottom: 41px;
-}
-.docente-inicial .rodape {
-	position: absolute;
- 	bottom: 0;
-  	width: 100%;
-}
-}

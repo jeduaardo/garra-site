@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Goldfingers</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/goldfingers.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Goldfingers</span>
+					</h4>
 					<p>
 						Também conhecido como Departamento de Captação de Recursos, os Goldfingers são
 						responsáveis por levantar fundos para o GARRA, estabelecer parcerias e organizar eventos
@@ -28,8 +28,7 @@
 						<div class="descricao">
 							<p><h4>Tayná Magalhães de Almeida</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Goldfingers</li>
+								<li>Ministra do Goldfingers</li>
 							</ul>
 						</div>
 					</li>
@@ -38,8 +37,7 @@
 						<div class="descricao">
 							<h4>Ana Luisa Scafura da Fonseca</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Goldfingers</li>
 							</ul>
 						</div>
 					</li>
@@ -52,8 +50,7 @@
 						<div class="descricao">
 							<h4>Ana Luisa Soares Costa</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Goldfingers</li>
 							</ul>
 						</div>
 					</li>
@@ -62,8 +59,7 @@
 						<div class="descricao">
 							<h4>Douglas de Castro Mendes</h4>
 							<ul>
-								<li>Curso: Engenharia Cívil</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Goldfingers</li>
 							</ul>
 						</div>
 					</li>
@@ -76,8 +72,7 @@
 						<div class="descricao">
 							<h4>Jéssica Gomes</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Goldfingers</li>
+								<li>Goldfingers</li>
 							</ul>
 						</div>
 					</li>

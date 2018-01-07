@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Ministério do Amor</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/ministerio-do-amor.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Ministério do Amor</span>
+					</h4>
 					<p>
 						Também conhecido como Departamento de Relacionamentos e Operações em Equipe, o MA
 						promove o sentimento de pertencimento ao GARRA, evidente e irrefutável em cada voluntário
@@ -30,8 +30,7 @@
 						<div class="descricao">
 							<p><h4>Gabrielle da Silva Barbosa</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Ministra do Amor</li>
+								<li>Ministra do Amor</li>
 							</ul>
 						</div>
 					</li>
@@ -40,8 +39,7 @@
 						<div class="descricao">
 							<h4>Rafaela Doro Rodrigues</h4>
 							<ul>
-								<li>Curso: Administração</li>
-								<li>Cargo: Amorzinho</li>
+								<li>Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -54,8 +52,7 @@
 						<div class="descricao">
 							<h4>Camila Rocha Firmo</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Amorzinho</li>
+								<li>Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -64,8 +61,7 @@
 						<div class="descricao">
 							<h4>Pietra Cestaro Cruz de Araujo</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Amorzinho</li>
+								<li>Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -78,8 +74,7 @@
 						<div class="descricao">
 							<h4>Isabella Alves de Faria</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Amorzinho</li>
+								<li>Amorzinho</li>
 							</ul>
 						</div>
 					</li>
@@ -88,8 +83,7 @@
 						<div class="descricao">
 							<h4>Lenice Rubio dos Santos</h4>
 							<ul>
-								<li>Curso: Jornalismo</li>
-								<li>Cargo: Amorzinho</li>
+								<li>Amorzinho</li>
 							</ul>
 						</div>
 					</li>

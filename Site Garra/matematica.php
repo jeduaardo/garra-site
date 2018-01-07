@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="docentes-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">MATEMÁTICA E SUAS TECNOLOGIAS</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
 				<div class="col-md-5 menus">
 					<a><img src="assets/img/matematica.png" class="img-responsive"></a>
 				</div>
 				<div class="col-md-5 texto menus">
+					<h4 class="titulo">
+						<span class="text">MATEMÁTICA E SUAS TECNOLOGIAS</span>
+					</h4>
 					<p>
 						A matemática é a ciência do raciocínio lógico e abstrato, que estuda quantidades, medidas,
 						espaços, estruturas, variações e estatísticas, dando sempre um trabalhão para se fazer
@@ -27,8 +27,7 @@
 						<div class="descricao">
 							<p><h4>Áleff Mascarenhas Silva</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Matemática A</li>
+								<li>Professor de Matemática A</li>
 							</ul>
 						</div>
 					</li>
@@ -37,8 +36,7 @@
 						<div class="descricao">
 							<h4>Vinicius Quintiliano da Silva</h4>
 							<ul>
-								<li>Curso: Matemática</li>
-								<li>Cargo: Professor de Matemática B</li>
+								<li>Professor de Matemática B</li>
 							</ul>
 						</div>
 					</li>
@@ -51,8 +49,7 @@
 						<div class="descricao">
 							<h4>Ailton Machado Ferraz</h4>
 							<ul>
-								<li>Curso: Matemática</li>
-								<li>Cargo: Professor de Matemática C</li>
+								<li>Professor de Matemática C</li>
 							</ul>
 						</div>
 					</li>

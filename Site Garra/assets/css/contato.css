@@ -1,8 +1,4 @@
-.contato-inicial{
-	background-color: #2dbff7;
-}
 .contato-inicial .conteudo{
-	background-color:#f8f8f8;
 	border-radius:  10px;
 	padding: 15px 15px 15px 15px;
 	margin-bottom: 5%;
@@ -29,15 +25,33 @@
 	}
 }
 
+.contato-inicial .contato-formulario button{
+	background-color: rgba(61, 155, 233, 0.53) !important;
+	font-family: "amaticbold";
+	border-color: transparent !important;
+	color: black;
+	font-size: 18px;
+	float: right;
+	}
+
+.contato-inicial .contato-formulario input,.contato-inicial .contato-formulario textarea{
+	font-family: "amaticbold";
+	font-size: 25px !important;
+	background-color: rgba(151, 222, 255, 0.6) !important;
+	color: black;
+	border-color: transparent !important;
+}
+
 .contato-inicial .titulo{
-	text-align: center;
-	font-family: "actionman";
-	font-size: 30px;
+	font-family: "amaticbold";
+	font-size: 66px;
 	margin-top: 5%;
+	color: #3D9BE9;
 }
 
 .contato-inicial .contato-formulario{
 	padding: 10px 10px 10px 10px;
+	margin-bottom: 10%;
 }
 
 .contato-inicial .menus{
@@ -47,18 +61,3 @@
 	border-radius:  10px;
 }
 
-@media(min-width: 992px){
-.contato-inicial html{
-  	position: relative;
-  	min-height: 100%;
-}
-
-.contato-inicial body{
-	margin-bottom: 41px;
-}
-.contato-inicial footer {
-	position: absolute;
- 	bottom: 0;
-  	width: 100%;
-}
-}

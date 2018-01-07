@@ -3,15 +3,16 @@
 <?php include ("header.php"); ?>
 <body class="diretorias-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Supremo Tribunal do GARRA</span>
-		</h4>
+		
 		<div class="conteudo container">
 			<div class="row resumo">
-				<div class="col-md-5 menus">
+				<div class="col-md-4 menus">
 					<a><img src="assets/img/stg.png" class="img-responsive"></a>
 				</div>
-				<div class="col-md-5 texto menus">
+				<div class="col-md-6 texto menus">
+					<h4 class="titulo">
+						<span class="text">Supremo Tribunal do GARRA</span>
+					</h4>
 					<p>
 						Também conhecido como Departamento Jurídico, o STG responde legalmente pelo GARRA.
 						Além disso, é responsável pelas atualizações do estatuto, adequação de nossos editais,
@@ -28,8 +29,7 @@
 						<div class="descricao">
 							<p><h4>Nylton Vitor Scicchitano de Almeida</h4></p>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Ministro do Supremo Tribunal do GARRA</li>
+								<li>Ministro do Supremo Tribunal do GARRA</li>
 							</ul>
 						</div>
 					</li>
@@ -38,8 +38,7 @@
 						<div class="descricao">
 							<h4>Geovanna Carpanez</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Juiza</li>
+								<li>Juiza</li>
 							</ul>
 						</div>
 					</li>
@@ -52,8 +51,7 @@
 						<div class="descricao">
 							<h4>Ivan Bilheiro Dias</h4>
 							<ul>
-								<li>Curso: Ciências Da Religião</li>
-								<li>Cargo: Juíz</li>
+								<li>Juíz</li>
 							</ul>
 						</div>
 					</li>

@@ -2,6 +2,7 @@
 <html>
 <?php include ("header.php"); ?>
 <body class="processo-seletivo-inicial">
+	<div class="background">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 logo-ps text-center">
@@ -45,5 +46,6 @@
 			</div>
 		</div>
 	</main>
+</div>
 	<?php include("footer.php"); ?>
 </body>

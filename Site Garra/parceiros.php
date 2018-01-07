@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <?php include ("header.php"); ?>
-<body class="diretoria-inicial">
+<body class="parceiros-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">Parceiros</span>
-		</h4>
 		<div class="conteudo container">
-			<p>A gestão do GARRA é Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem.  </p>
+			<h4 class="titulo">
+				<span class="text">Parceiros</span>
+			</h4>
+			<p>Os parceiros do GARRA são entidades que nos ajudam diariamente, cada um a sua maneira. Sem eles, o GARRA não seria tão bem estruturado quanto ele é, e não poderíamos cuidar tão bem dos nossos alunos!</p>
+			<p class="cookie">Clique no ícone de cada parceiro para conhece-los mais um pouco!</p>
 			<div class="row">
 				<div class="col-md-3 menus">
 					<a href="http://www.cave.com.br/"><img src="assets/img/cave.png" class="img-responsive"></a>

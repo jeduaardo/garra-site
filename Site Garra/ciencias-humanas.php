@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="docentes-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">CIENCIAS HUMANAS E SUAS TECNOLOGIAS</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
 				<div class="col-md-5 menus">
 					<a><img src="assets/img/ciencias-humanas.png" class="img-responsive"></a>
 				</div>
 				<div class="col-md-5 texto menus">
+					<h4 class="titulo">
+						<span class="text">CIENCIAS HUMANAS E SUAS TECNOLOGIAS</span>
+					</h4>
 					<p>
 						O grande grupo das ciências humanas reúne as matérias de história, geografia, filosofia e
 						sociologia. No Garra, professores e monitores oriundos de diferentes cursos de graduação
@@ -27,8 +27,7 @@
 						<div class="descricao">
 							<p><h4>Ivan Bilheiro Dias Silva</h4></p>
 							<ul>
-								<li>Curso: Ciências da Religião</li>
-								<li>Cargo: Professor de Filosofia</li>
+								<li>Professor de Filosofia</li>
 							</ul>
 						</div>
 					</li>
@@ -37,8 +36,7 @@
 						<div class="descricao">
 							<h4>Matheus Vitorino Machado</h4>
 							<ul>
-								<li>Curso: Ciências Sociais</li>
-								<li>Cargo: Professor de Sociologia</li>
+								<li>Professor de Sociologia</li>
 							</ul>
 						</div>
 					</li>
@@ -51,8 +49,7 @@
 						<div class="descricao">
 							<h4>Túlio Pedro Mussi Ramos</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Geografia do Brasil</li>
+								<li>Professor de Geografia do Brasil</li>
 							</ul>
 						</div>
 					</li>
@@ -61,8 +58,7 @@
 						<div class="descricao">
 							<h4>Jéssica Gomes</h4>
 							<ul>
-								<li>Curso: Direito</li>
-								<li>Cargo: Professora de Geografia Geral</li>
+								<li>Professora de Geografia Geral</li>
 							</ul>
 						</div>
 					</li>
@@ -75,8 +71,7 @@
 						<div class="descricao">
 							<h4>Nilciana Alves Martins</h4>
 							<ul>
-								<li>Curso: -</li>
-								<li>Cargo: Professora de História do Brasil</li>
+								<li>Professora de História do Brasil</li>
 							</ul>
 						</div>
 					</li>
@@ -85,8 +80,7 @@
 						<div class="descricao">
 							<h4>Guilherme Abizaid David</h4>
 							<ul>
-								<li>Curso: História</li>
-								<li>Cargo: Professor de História Geral</li>
+								<li>Professor de História Geral</li>
 							</ul>
 						</div>
 					</li>

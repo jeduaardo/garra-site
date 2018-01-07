@@ -1,8 +1,4 @@
-.diretoria-inicial{
-	background-color: #2dbff7;
-}
 .diretoria-inicial .conteudo{
-	background-color:#f8f8f8;
 	border-radius:  10px;
 	padding: 15px 15px 15px 15px;
 	margin-bottom: 5%;
@@ -10,13 +6,14 @@
 
 .diretoria-inicial .conteudo p{
 	text-align: justify;
+	text-indent: 4em;
 }
 
 .diretoria-inicial .titulo{
-	text-align: center;
-	font-family: "actionman";
-	font-size: 30px;
+	font-family: "amaticbold";
+	font-size: 66px;
 	margin-top: 5%;
+	color: #3D9BE9;
 }
 
 .diretoria-inicial .menus{
@@ -25,7 +22,17 @@
 	border-radius:  10px;
 }
 
+.diretoria-inicial .menus a:focus{
+	margin-left: 0;
+}
+
 .diretoria-inicial .menus .img-responsive{
-	width: 263px;
-	height: 263px;
+	width: 293px;
+	height: 293px;
+	margin: 0 auto;
+}
+
+.diretoria-inicial .cookie{
+	font-family: "cookie";
+	font-size: 26px;
 }

@@ -3,15 +3,15 @@
 <?php include ("header.php"); ?>
 <body class="docentes-inicial">
 	<main>
-		<h4 class="titulo">
-			<span class="text">CIENCIAS DA NATUREZA E SUAS TECNOLOGIAS</span>
-		</h4>
 		<div class="conteudo container">
 			<div class="row resumo">
 				<div class="col-md-5 menus">
 					<a><img src="assets/img/ciencias-da-natureza.png" class="img-responsive"></a>
 				</div>
 				<div class="col-md-5 texto menus">
+					<h4 class="titulo">
+						<span class="text">CIENCIAS DA NATUREZA E SUAS TECNOLOGIAS</span>
+					</h4>
 					<p>
 						Nessa área temos a física, a química e a biologia, disciplinas que sempre estão interligadas e
 						que nos permitem conhecer o mundo tal como ele é, em seu mais íntimo funcionamento.
@@ -28,8 +28,7 @@
 						<div class="descricao">
 							<p><h4>Rodrigo Pacheco</h4></p>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Biologia A</li>
+								<li>Professor de Biologia A</li>
 							</ul>
 						</div>
 					</li>
@@ -38,8 +37,7 @@
 						<div class="descricao">
 							<h4>Yasmin Xavier dos Reis</h4>
 							<ul>
-								<li>Curso: Fisioterapia</li>
-								<li>Cargo: Professora de Biologia B</li>
+								<li>Professora de Biologia B</li>
 							</ul>
 						</div>
 					</li>
@@ -52,8 +50,7 @@
 						<div class="descricao">
 							<h4>Felipe dos Santos Farias</h4>
 							<ul>
-								<li>Curso: Licenciatura em Física</li>
-								<li>Cargo: Professor de Física A</li>
+								<li>Professor de Física A</li>
 							</ul>
 						</div>
 					</li>
@@ -62,8 +59,7 @@
 						<div class="descricao">
 							<h4>Leonardo Carneiro Vale</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Física B</li>
+								<li>Professor de Física B</li>
 							</ul>
 						</div>
 					</li>
@@ -76,8 +72,7 @@
 						<div class="descricao">
 							<h4>Pedro Henrique Souza Rezende</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Química A</li>
+								<li>Professor de Química A</li>
 							</ul>
 						</div>
 					</li>
@@ -86,8 +81,7 @@
 						<div class="descricao">
 							<h4>Anna Flavia Silveira Souza</h4>
 							<ul>
-								<li>Curso: Medicina</li>
-								<li>Cargo: Professor de Química B</li>
+								<li>Professor de Química B</li>
 							</ul>
 						</div>
 					</li>

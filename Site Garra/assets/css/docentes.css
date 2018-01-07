@@ -1,22 +1,24 @@
-.docentes-inicial{
-	background-color: #2dbff7;
-}
 .docentes-inicial .texto p{
 	text-align: justify;
 	margin-top: 30%;
 	text-indent:4em;
 }
 .docentes-inicial .conteudo{
-	background-color:#f8f8f8;
 	border-radius:  10px;
 	padding: 15px 15px 15px 15px;
 	margin-bottom: 6.84%;
 }
 .docentes-inicial .titulo{
-	text-align: center;
-	font-family: "actionman";
-	font-size: 30px;
+	text-align: left;
+	font-family: "amaticbold";
+	font-size: 66px;
 	margin-top: 5%;
+	color: #3D9BE9;
+}
+
+.diretorias-inicial .resumo .menus{
+	margin-left: 0;
+	padding-left: 0;
 }
 
 .docentes-inicial .menus{
@@ -29,13 +31,25 @@
 	margin:0;
 	padding: 0;
 	text-align: center;
+	font-size: 30px;
+	font-family: "din";
+	text-transform: uppercase;
+	margin-bottom: 5%;
 }
+
+.diretorias-inicial .membros{
+	margin-bottom: 5%;
+}
+
 .docentes-inicial .descricao h4{
 	text-align: center;
+	font-size: 40px;
+	font-family: "amaticbold";
 }
 
 .docentes-inicial .descricao{
 	margin-bottom: 10%;
+	font-family: "amaticbold";
 }
 
 .docentes-inicial .thumbnail{
@@ -46,6 +60,8 @@
 .docentes-inicial .membros .img-responsive{
 	width: 253px;
 	height: 253px;
+	border:5px solid #3D9BE9;
+	margin: 0 auto;
 }
 
 .docentes-inicial .resumo .img-responsive{

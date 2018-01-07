@@ -1,6 +1,20 @@
 .processo-seletivo-inicial{
 	background-color: #2dbff7;
 }
+.processo-seletivo-inicial .background{
+	background-image: url("../img/background-seletivo.jpeg") ;
+	background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+}
 .processo-seletivo-inicial .logo-ps img{
 	text-align: center;
 	width: 50%;
@@ -23,6 +37,7 @@
 .processo-seletivo-inicial .conteudo img{
 	width: 95%;
 	height: 95%;
+	margin: 5%;
 }
 .processo-seletivo-inicial .conteudo img:hover{
 	cursor: pointer;
