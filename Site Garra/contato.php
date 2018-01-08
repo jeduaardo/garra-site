@@ -9,33 +9,33 @@
 			</h4>
 			<div class="formulario col-md-6">
 				<div id="div-formulario"">						
-					<form class="contato-formulario">
+					<!-- action="email.php" --><form  class="contato-formulario" method="post">
 						<div class="form-row">
 							<div class="row">
 								<div class="form-group col-md-12" id="div-nome">
 									<label for="contato-nome" class="col-form-label"></label>
-									<input type="text" class="form-control" id="contato-nome" placeholder="Nome" required>
+									<input type="text" class="form-control" id="contato-nome" name="nome" placeholder="Nome" required>
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-email">
 									<label for="contato-email" class="col-form-label"></label>
-									<input type="email" class="form-control" id="contato-email" placeholder="E-mail" required>
+									<input type="email" class="form-control" id="contato-email" name="email" placeholder="E-mail" required>
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-assunto">
 									<label for="contato-assunto" class="campo"></label>
-									<input id="contato-assunto" class="form-control" type="text" placeholder="Assunto">
+									<input id="contato-assunto" class="form-control" type="text" name="telefone" placeholder="Assunto">
 								</div>
 							</div>
 							<div class="row">
 								<div class="form-group col-md-12" id="div-mensagem">
 									<label for="contato-mensagem" class="campo"></label>
-									<textarea id="contato-mensagem" class="form-control" type="text" placeholder="Mensagem" rows="5" required></textarea>
+									<textarea id="contato-mensagem" class="form-control" type="text" placeholder="Mensagem" name="msg" rows="5" required></textarea>
 								</div>
 							</div>
-							<button type="submit" class="btn btn-success" id="contato-enviar">Enviar</button>
+							<button type="submit" class="btn btn-success" value="Enviar" id="contato-enviar">Enviar</button>
 						</div>
 					</form>
 				</div>

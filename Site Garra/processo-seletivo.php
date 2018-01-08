@@ -18,17 +18,17 @@
 						<span class="text">O processo seletivo dos alunos GARRA é composto por</span>
 					</h4>
 				</div>
-				<div class="row">
-					<div class="col-md-3">
+				<div class="row etapas">
+					<div class="col-md-2 col-md-offset-2">
 						<img src="assets/img/etapa1.png" class="img-responsive">
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-2">
 						<img src="assets/img/etapa2.png" class="img-responsive">
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-2">
 						<img src="assets/img/etapa3.png" class="img-responsive">
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-2">
 						<img src="assets/img/etapa4.png" class="img-responsive">
 					</div>
 				</div>
@@ -36,11 +36,12 @@
 					<h4 class="titulo">
 						<span class="text">Inscreva-se, saiba todas as informações, confira as datas e acompanhe o andamento das etapas</span>
 					</h4>
-					<div class="col-md-3 col-md-offset-3">
-						<a href="#"> <img src="assets/img/inscreva-se.png" class="img-responsive"></a>
+					<div class="col-md-3 col-md-offset-3 botao">
+						<a href="https://docs.google.com/forms/d/1kchlTrN7cS-VyJA1Mwrpu_5JzTuvxe3-DnW8ItP4VhY/edit
+"> <img src="assets/img/inscreva-se.png" class="img-responsive"></a>
 					</div>
-					<div class="col-md-3">
-						<a href="#"><img src="assets/img/edital.png" class="img-responsive"></a>
+					<div class="col-md-3 botao">
+						<a href="edital.pdf"><img src="assets/img/edital.png" class="img-responsive"></a>
 					</div>
 				</div>
 			</div>
