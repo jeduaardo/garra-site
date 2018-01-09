@@ -1,6 +1,6 @@
   <head>
   <meta charset="utf-8">
-  <title>Site Garra</title>
+  <title>Garra Cursinho</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="assets/css/fontes.css">
@@ -16,6 +16,8 @@
   <link rel="stylesheet" type="text/css" href="assets/css/corpo-docente.css">
   <link rel="stylesheet" type="text/css" href="assets/css/docentes.css">
   <link rel="stylesheet" type="text/css" href="assets/css/sobre-nos.css">
+  <link rel="shortcut icon" href="assets/img/garrinha.ico" type="image/x-icon" />
+  <meta name="google-site-verification" content="xXV1QaCJVKtaaj9kc7TIK-J9WkNVzaQlsNM0jLRPROs" />
 </head>
     <!-- Top menu -->
     <div class="navegacao">

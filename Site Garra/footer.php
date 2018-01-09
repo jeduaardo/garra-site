@@ -14,13 +14,13 @@
             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
           </span>
         </a>
-        <a href="https://www.instagram.com/projeto.garra">
+        <a href="https://www.instagram.com/garra.cursinho">
           <span class="fa-stack fa-lg instagram">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
           </span>
         </a>
-        <a href="#">
+        <a href="https://www.youtube.com/channel/UCi_vTdCc3W87WPqtlDSXmaQ">
           <span class="fa-stack fa-lg youtube">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>

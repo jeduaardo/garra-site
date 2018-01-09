@@ -7,7 +7,7 @@
 			<h4 class="titulo">
 				<span class="text">Diretores e Coordenadores</span>
 			</h4>
-			<p>A gestão do GARRA é Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla am quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem.  </p>
+			<p>A administração do Cursinho GARRA compõe-se de diretores e coordenadores, distribuídos entre 8 departamentos. Neles, encontramos inúmeras pessoas dedicadas, responsáveis e sonhadoras, que acreditam na educação como ferramenta transformadora da realidade.  Cada departamento, conhecidos no GARRA como ministérios, é responsável por uma área do cursinho e juntos eles fornecem o ambiente propício para que os alunos realizem seu sonho, além de intensificar e otimizar a troca de conhecimentos e experiência entre os membros do GARRA.</p>
 			<p class="cookie">Clique no ícone de cada diretoria para saber mais!</p>
 			<div class="row">
 				<div class="col-md-3 menus">
@@ -37,6 +37,10 @@
 					<a href="goldfingers.php"><img src="assets/img/goldfingers.png" class="img-responsive"></a>
 				</div>
 			</div>
+			<blockquote class="cookie">
+  				<p>“Até que o sol não brilhe, acendamos uma vela na escuridão.”</p>
+  				<footer>Confúcio</footer>
+			</blockquote>
 		</div>
 	</main>
 	<?php include ("footer.php"); ?>

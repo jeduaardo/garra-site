@@ -9,7 +9,7 @@
 			</h4>
 			<div class="formulario col-md-6">
 				<div id="div-formulario"">						
-					<!-- action="email.php" --><form  class="contato-formulario" method="post">
+					<form action="email.php" class="contato-formulario" method="post" data-toggle="modal" data-target="#enviar" onsubmit="return alert('Email enviado com sucesso! Em breve entraremos em contato!');">
 						<div class="form-row">
 							<div class="row">
 								<div class="form-group col-md-12" id="div-nome">
@@ -26,7 +26,7 @@
 							<div class="row">
 								<div class="form-group col-md-12" id="div-assunto">
 									<label for="contato-assunto" class="campo"></label>
-									<input id="contato-assunto" class="form-control" type="text" name="telefone" placeholder="Assunto">
+									<input id="contato-assunto" class="form-control" type="text" name="assunto" placeholder="Assunto">
 								</div>
 							</div>
 							<div class="row">
@@ -35,7 +35,7 @@
 									<textarea id="contato-mensagem" class="form-control" type="text" placeholder="Mensagem" name="msg" rows="5" required></textarea>
 								</div>
 							</div>
-							<button type="submit" class="btn btn-success" value="Enviar" id="contato-enviar">Enviar</button>
+							<button type="submit" class="btn btn-success" value="Enviar" id="contato-enviar "  >Enviar</button>
 						</div>
 					</form>
 				</div>

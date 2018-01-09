@@ -27,7 +27,7 @@
 					<a href="ciencias-da-natureza.php"><img src="assets/img/ciencias-da-natureza.png" class="img-responsive"></a>
 				</div>
 			</div>
-			<blockquote>
+			<blockquote class="cookie">
   				<p>“Educar é impregnar de sentido o que fazemos a cada instante”</p>
   				<footer>Paulo Freire</footer>
 			</blockquote>

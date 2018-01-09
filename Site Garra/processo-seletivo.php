@@ -19,11 +19,8 @@
 					</h4>
 				</div>
 				<div class="row etapas">
-					<div class="col-md-2 col-md-offset-2">
+					<div class="col-md-2 col-md-offset-3">
 						<img src="assets/img/etapa1.png" class="img-responsive">
-					</div>
-					<div class="col-md-2">
-						<img src="assets/img/etapa2.png" class="img-responsive">
 					</div>
 					<div class="col-md-2">
 						<img src="assets/img/etapa3.png" class="img-responsive">
@@ -37,7 +34,7 @@
 						<span class="text">Inscreva-se, saiba todas as informações, confira as datas e acompanhe o andamento das etapas</span>
 					</h4>
 					<div class="col-md-3 col-md-offset-3 botao">
-						<a href="https://docs.google.com/forms/d/1kchlTrN7cS-VyJA1Mwrpu_5JzTuvxe3-DnW8ItP4VhY/edit
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLScEyjpTGvTL1Ybw8akgoN7dQvqjk942D-Q7_bx-hcHB0PjRxg/viewform
 "> <img src="assets/img/inscreva-se.png" class="img-responsive"></a>
 					</div>
 					<div class="col-md-3 botao">

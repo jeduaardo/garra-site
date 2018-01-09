@@ -41,9 +41,14 @@
 .pagina-inicial #wrapper .row{
 	margin-right: 0px;
 }
+
+.pagina-inicial #wrapper .primeiro{
+	margin-left: 4% !important;
+}
+
 .pagina-inicial #wrapper{
 		background: #fff;
-		margin: 5% auto 5% 12%;
+		margin: 5% auto 5% 10%;
 		padding:0px 10px;
 		border-radius: 10px;
 		padding-bottom: 25px;
